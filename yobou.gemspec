@@ -1,10 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = "yobou"
-  s.version     = "0.0.0"
+  s.version     = "1.0.0"
   s.summary     = "A simple mysql/mysqldump wrapper"
   s.description = "A simple mysql/mysqldump wrapper"
   s.authors     = ["Vincenzo Strumbo"]
-  s.email       = ""
   s.files       = ["lib/yobou.rb"]
   s.homepage    =
     "https://rubygems.org/gems/yobou"
